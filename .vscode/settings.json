@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c93de299-88bd-4099-9894-03a855658b89/AppServices/subscriptions/c93de299-88bd-4099-9894-03a855658b89/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/appb2cchubbtest",
+    "appService.deploySubpath": "dist\\azureb2cwebapp"
+}
